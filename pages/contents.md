@@ -1,5 +1,9 @@
-## What's **Contents**?
-### It's a normal page called [[Contents]], you can use it for:
-#### 1. table of content/index/MOC
-#### 2. pinning/bookmarking favorites pages/blocks (e.g. [[Logseq]])
-#### 3. You can also put many different things, depending on your personal workflow.
+-----BEGIN AGE ENCRYPTED FILE-----
+YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBpQkZXSTF2R2ZJT0JTRjJH
+WWNpQmxNWlFVUWluOWxRU1l1QWlmS1hGU0MwCmg5cEM5dVVqME5JU3p6REdmUU4w
+eGk3THRRNjl3YkdTWnFGUGIvRGRna28KLT4gaV89Zkw6di1ncmVhc2UgMDNfSFNP
+IDkgdyBrK3prYkNtClZtQWRlS0s4blN3ZU5uOHYvRStwVUlrTmNZbngKLS0tIEZM
+eHZmVkpuVXpMR3lsVURxcittdWxBMzdPdWxRdWlMSlQ2U1Z1bEFxeFEKF5ZSaX/V
+iRh8L4WzlIBvc25gH5W9aDazYC4WZ3Kv15cosWESHnsDmNYvXBqxfoI6zwYuJmkH
+hA==
+-----END AGE ENCRYPTED FILE-----
